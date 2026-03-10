@@ -5,3 +5,10 @@ matplotlib
 seaborn
 sagemaker
 ipykernel
+boto3
+s3transfer
+botocore
+joblib
+jsonschema
+requests
+ipython
